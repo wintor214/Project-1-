@@ -32,7 +32,8 @@ Data used in the analysis comes from Kaggle (https://www.kaggle.com/airbnb/seatt
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@winston21491/seattle-airbnb-udacity-project-bbdfa8bfa49).
+The main findings of the code can be found at the post available [here](https://github.com/wintor214/Udacity-Data-Scientist-Nanodegree-Project-1).
+Feel free to check out a quick summary of the project results [here](https://medium.com/@winston21491/seattle-airbnb-udacity-project-bbdfa8bfa49).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
