@@ -17,8 +17,8 @@ For this project, I was interestested in using Seattle Airbnb data to better und
 
 1. When are home prices the highest in Seattle?
 2. Which neighborhoods are the most/least expensive in Seattle?
-3. What type of homes are the most expensive in Seattle?
-4. What are the most influential features that affect Seattle home prices?
+3. What are the most influential features that affect Seattle home prices?
+
 
 ## File Descriptions <a name="files"></a>
 
