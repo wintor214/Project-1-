@@ -26,9 +26,9 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 Data used in the analysis comes from Kaggle (https://www.kaggle.com/airbnb/seattle). It contains 3 files:
 
-calendar.csv: calendar availability of listings and price
-listings.csv: information about all the available listings
-reviews.csv: listing reviews by the users
+1. calendar.csv: calendar availability of listings and price
+2. listings.csv: information about all the available listings
+3. reviews.csv: listing reviews by the users
 
 ## Results<a name="results"></a>
 
